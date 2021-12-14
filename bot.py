@@ -73,8 +73,8 @@ async def start(bot: Client, cmd: Message):
             reply_markup=InlineKeyboardMarkup(
                 [
                     [
-                        InlineKeyboardButton("Support Group", url="https://t.me/mhjoybots"),
-                        InlineKeyboardButton("Bots Channel", url="https://t.me/mhjoybots")
+                        InlineKeyboardButton("Request Group", url="https://t.me/+X23-MlAMrIhkMWQ1"),
+                        InlineKeyboardButton("Main Group", url="https://t.me/+IkAcyhty4PY1NWY1")
                     ],
                     [
                         InlineKeyboardButton("About Bot", callback_data="aboutbot"),
