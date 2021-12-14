@@ -43,7 +43,7 @@ Developer is Super Noob. Just Learning from Official Docs. Please Donate the dev
 
 Also remember that developer will Delete Adult Contents from Database. So better don't Store Those Kind of Things.
 
-[Support Joining](https://t.me/mhjoybots) (Telegram)
+[Main Channel](https://t.me/+IkAcyhty4PY1NWY1) (Telegram)
 """
 	HOME_TEXT = """
 Hi, [{}](tg://user?id={})\n\nThis is Permanent **Motion Picture File Store Bot**.
