@@ -338,7 +338,7 @@ async def button(bot: Client, cmd: CallbackQuery):
                 [
                     [
                         InlineKeyboardButton("Source Codes of Bot",
-                                             url="https://github.com/AbirHasan2005/PyroFilesStoreBot")
+                                             url="https://telegram.org/mhjoy99")
                     ],
                     [
                         InlineKeyboardButton("About Bot", callback_data="aboutbot"),
@@ -356,8 +356,8 @@ async def button(bot: Client, cmd: CallbackQuery):
             reply_markup=InlineKeyboardMarkup(
                 [
                     [
-                        InlineKeyboardButton("Support Group", url="https://t.me/JoinOT"),
-                        InlineKeyboardButton("Bots Channel", url="https://t.me/Discovery_Updates")
+                        InlineKeyboardButton("Request Group", url="https://t.me/+X23-MlAMrIhkMWQ1"),
+                        InlineKeyboardButton("Main Channel", url="https://t.me/+IkAcyhty4PY1NWY1")
                     ],
                     [
                         InlineKeyboardButton("About Bot", callback_data="aboutbot"),
