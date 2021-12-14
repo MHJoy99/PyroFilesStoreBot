@@ -32,9 +32,9 @@ Send me any file I will save it in my Database. Also works for channel. Add me t
 
 🧑🏻‍💻 **Developer:** @mhjoy99
 
-👥 **Support Group:** [MHJoyBots](https://t.me/mhjoybots)
+👥 **Main Group:** [Motion Picture 3.0](https://t.me/+IkAcyhty4PY1NWY1)
 
-📢 **Updates Channel:** [MHJoyBots](https://t.me/mhjoybots)
+📢 **Request Group:** [MOTION PICTURE REQUEST 2](https://t.me/+X23-MlAMrIhkMWQ1)
 """
 	ABOUT_DEV_TEXT = f"""
 🧑🏻‍💻 **Developer:** @mhjoy99
